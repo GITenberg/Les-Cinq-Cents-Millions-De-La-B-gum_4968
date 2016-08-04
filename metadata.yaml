@@ -1,0 +1,87 @@
+_repo: Les-Cinq-Cents-Millions-De-La-B-gum_4968
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: "The Begum's Fortune (French: Les Cinq cents millions de la Bégum), also\
+  \ published as The Begum's Millions, is an 1879 novel by Jules Verne, with some\
+  \ elements which could be described as utopian and others which seem clearly dystopian.\
+  \ It is remarkable as the first published book in which Verne was cautionary and\
+  \ to some degree pessimistic about the development of science and technology.\n\
+  As came out long after the book's publication, it is actually based on a manuscript\
+  \ by Paschal Grousset, a Corsican revolutionary who had participated in the Paris\
+  \ Commune and was at the time living in exile in the USA and London. It was bought\
+  \ by Pierre-Jules Hetzel, the publisher of most of Verne’s books. The attribution\
+  \ of plot elements between Grousset's original text and Verne's work on it has not\
+  \ been completely defined. Later, Verne worked similarly on two more books by Grousset\
+  \ and published them under his name, before the revolutionary finally got a pardon\
+  \ and was able to return to France and resume publication in his own name.\nThe\
+  \ book first appeared in a hasty and poorly done English translation soon after\
+  \ its publication in French – one of the bad translations which are considered to\
+  \ have damaged Verne's reputation in the English-speaking world. W. H. G. Kingston\
+  \ was near death and deeply in debt at the time. His wife, Mrs. A. K. Kingston,\
+  \ who did the translation for him, was certainly otherwise preoccupied than with\
+  \ the accuracy of the text and may have had to rely on outside help. in 2005 a new\
+  \ translation from the French was made by Stanford L. Luce and published by Wesleyan\
+  \ University.\nI. O. Evans in his introduction to his \"Fitzroy Edition\" of The\
+  \ Begum's Fortune suggested a connection between the creation of artificial satellites\
+  \ in this novel and the publication of The Brick Moon by Edward Everett Hale in\
+  \ 1879.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- FR Littérature
+- FR Science fiction
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4968'
+  wikidata: Q929899
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon -- Fiction'
+- !lcsh 'New towns -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+- !lcsh 'Distribution of decedents'' estates -- Fiction'
+- GITenberg
+title: Les Cinq Cents Millions De La Bégum
+url: http://www.gutenberg.org/ebooks/4968
+wikipedia:
+- https://fi.wikipedia.org/wiki/Begumin_500_miljoonaa
+- https://pl.wikisource.org/wiki/500_milion%C3%B3w_Begumy
+- https://commons.wikimedia.org/wiki/Category:The_Begum%27s_Fortune
+- https://uk.wikipedia.org/wiki/%D0%9F%27%D1%8F%D1%82%D1%81%D0%BE%D1%82_%D0%BC%D1%96%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD%D1%96%D0%B2_%D0%91%D0%B5%D0%B3%D1%83%D0%BC%D0%B8
+- https://el.wikipedia.org/wiki/%CE%A4%CE%B1_500_%CE%B5%CE%BA%CE%B1%CF%84%CE%BF%CE%BC%CE%BC%CF%8D%CF%81%CE%B9%CE%B1_%CF%84%CE%B7%CF%82_%CE%9C%CF%80%CE%B5%CE%B3%CE%BA%CE%BF%CF%8D%CE%BC
+- https://fr.wikisource.org/wiki/Les_Cinq_Cents_Millions_de_la_B%C3%A9gum
+- https://pt.wikipedia.org/wiki/Les_cinq_cents_millions_de_la_B%C3%A9gum
+- https://es.wikipedia.org/wiki/Los_quinientos_millones_de_la_beg%C3%BAn
+- https://en.wikipedia.org/wiki/The_Begum%27s_Fortune
+- https://ru.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D1%8C%D1%81%D0%BE%D1%82_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%B1%D0%B5%D0%B3%D1%83%D0%BC%D1%8B
+- https://ro.wikipedia.org/wiki/Cele_500_de_milioane_ale_Begumei
+- https://ko.wikipedia.org/wiki/%EC%9D%B8%EB%8F%84_%EC%99%95%EB%B9%84%EC%9D%98_%EC%9C%A0%EC%82%B0
+- https://fr.wikipedia.org/wiki/Les_Cinq_Cents_Millions_de_la_B%C3%A9gum
+- https://pl.wikipedia.org/wiki/Pi%C4%99%C4%87set_milion%C3%B3w_hinduskiej_w%C5%82adczyni
+- https://da.wikipedia.org/wiki/Den_indiske_arv
+- https://sv.wikipedia.org/wiki/Begums_500_miljoner
+- https://ar.wikipedia.org/wiki/%D8%AB%D8%B1%D9%88%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%AC%D9%88%D9%85
+- https://nl.wikipedia.org/wiki/De_500_miljoen_van_de_Begum
+- https://cs.wikipedia.org/wiki/Ocelov%C3%A9_m%C4%9Bsto
+- https://de.wikipedia.org/wiki/Die_500_Millionen_der_Begum
+- https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82_%D1%81%D1%82%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%BC%D0%B8%D0%BB%D0%B8%D0%BE%D0%BD%D0%B0_%D0%91%D0%B5%D0%B3%D0%B5%D0%BD%D0%B8%D0%BD%D0%B8%D1%85
+- https://hy.wikipedia.org/wiki/%D4%B2%D5%A5%D5%A3%D5%B8%D6%82%D5%B4%D5%AB_%D5%B0%D5%AB%D5%B6%D5%A3_%D5%B0%D5%A1%D6%80%D5%B5%D5%B8%D6%82%D6%80_%D5%B4%D5%AB%D5%AC%D5%AB%D5%B8%D5%B6%D5%A8
+- https://it.wikipedia.org/wiki/I_cinquecento_milioni_della_B%C3%A9gum
+- https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%A8%D7%95%D7%A9%D7%94_%D7%94%D7%92%D7%93%D7%95%D7%9C%D7%94
