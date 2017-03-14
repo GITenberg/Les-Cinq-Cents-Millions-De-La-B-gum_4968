@@ -1,5 +1,8 @@
 _repo: Les-Cinq-Cents-Millions-De-La-B-gum_4968
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -39,6 +42,8 @@ description: "The Begum's Fortune (French: Les Cinq cents millions de la Bégum)
   \ Begum's Fortune suggested a connection between the creation of artificial satellites\
   \ in this novel and the publication of The Brick Moon by Edward Everett Hale in\
   \ 1879.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4968#Les-Cinq-Cents-Millions-De-La-B-gum
 gutenberg_bookshelf:
 - FR Littérature
 - FR Science fiction
